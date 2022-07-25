@@ -10,3 +10,6 @@
         f) Salir
 """
 
+
+def function():
+    print("Elmer")
